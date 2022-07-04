@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @guiarcoverde
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Programming generals
+- 🌱 I’m currently learning SQL
 
 <!---
 guiarcoverde/guiarcoverde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,4 +2,4 @@ Olá, me chamo Guilherme Arcoverde e tenho 25 anos. Aqui no meu github você enc
 
 Atualmente estou estudando análise de dados, fazendo cursos e estou a procura da primeira oportunidade nesta área de atuação
 
-![hhttps://www.linkedin.com/in/guilherme-arcoverde-652813142/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-arcoverde-652813142/)

@@ -1,6 +1,6 @@
-Olá, me chamo Guilherme Arcoverde e tenho 25 anos. Aqui no meu github você encontrará diversos projetos que desenvolvi.
+Olá, me chamo Guilherme Arcoverde. Aqui no meu github você encontrará diversos projetos que desenvolvi.
 
-Atualmente estou estudando análise de dados, fazendo cursos e estou a procura da primeira oportunidade nesta área de atuação.
+A 2 anos comecei a desenvolver software usando JavaScript/Typescript. Com o foco no BackEnd atualmente uso minhas habilidades de JS/TS nos serviços da AWS (Lambda, Dynamo, S3, Bedrock). Atualmente estou estudando C# com o intuito de mudar para a stack.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-arcoverde-652813142/)
 

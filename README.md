@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a passionate developer currently working at **Accentur
     
     -   🐍 **Python** (2 years)
     -   🟨 **JavaScript** (2 years)
-    -   ⚙️ **C#** (6 months of study, actively learning)
+    -   ⚙️ **C#** (1 year of study, actively learning)
 -   **☁️ AWS Expertise:**
     
     -   🔄 **Lambda** - Building serverless applications

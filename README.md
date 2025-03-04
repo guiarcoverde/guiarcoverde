@@ -6,9 +6,9 @@ Welcome to my GitHub! I'm a passionate developer currently working at **Accentur
 
 -   **💻 Programming Languages:**
     
-    -   🐍 **Python** (2 years)
+    -   🐍 **Python** (6 months)
     -   🟨 **JavaScript** (2 years)
-    -   ⚙️ **C#** (1 year of study, actively learning)
+    -   ⚙️ **C#** (2 year)
 -   **☁️ AWS Expertise:**
     
     -   🔄 **Lambda** - Building serverless applications
